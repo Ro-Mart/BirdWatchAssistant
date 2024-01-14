@@ -10,6 +10,10 @@ Using Data which has been collected in surveys to
         - Add LLM to simplify the interaction of the user and the application even more
 
 
+### Current Project Phase
+I have started some preliminart EDA using Data collected in 2020-2023. Realized I will probably need to add more data from the previous years to the mix in order to be able to identify more patterns (at selected locations/US states/ CA provinces). Stay tuned!
+
+
 ### Walkthrough Demo
 TBD
 ...
@@ -27,7 +31,6 @@ TBD
 * `data` 
     - Raw data can be downloaded here: https://feederwatch.org/explore/raw-dataset-request
     - The data dictionary can be found on the same website or in the data folder 
-
 
 `Notebooks` 
     - Contains all notebooks used
