@@ -11,7 +11,8 @@ Using Data which has been collected in surveys to
 
 
 ### Current Project Phase
-I have started some preliminart EDA using Data collected in 2020-2023. Realized I will probably need to add more data from the previous years to the mix in order to be able to identify more patterns (at selected locations/US states/ CA provinces). Stay tuned!
+I have cleaned data from the years 2011 to 2023. You can find the cleaning and data exploration in the notebook BirdWatch_EDA. The second notebook contains a first attempt at timeseries, which will have to be optimized further.
+Stay tuned!
 
 
 ### Walkthrough Demo
@@ -33,4 +34,5 @@ TBD
     - The data dictionary can be found on the same website or in the data folder 
 
 `Notebooks` 
-    - Contains all notebooks used
+    - BirdWarch_EDA: Initial Cleaning and Exploration of all the used data
+    - BirdWatch_EDA_2_Timeseries: Restriction to data from BC, Canada, preparation for time series and first models using Prophet
